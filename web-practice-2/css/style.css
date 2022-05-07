@@ -1,0 +1,171 @@
+*{
+	margin:0;
+	padding:0;
+}
+a {
+	text-decoration: none;
+}
+ul{	
+	list-style:none;
+}
+#container{
+	width:954px;
+	/* height:1388px; */
+	margin: 0 auto;
+	padding:50px 0;
+}
+#menu_container {
+	padding: 50px 100px;
+}
+#logo {
+	width: 150px;
+	float: left;
+}
+#logo h1 {
+	font-size: 18px;
+}
+#logo h1 a{
+	text-transform: uppercase;
+	color: #595959;
+	font-size:16px;
+	padding:0 16px;	
+}
+#menu{
+	width:370px;
+	float: left;
+}	
+#social{
+	width:200px;
+	float: left;
+}	
+#social img{
+	float:right;
+}
+#menu ul li{
+	float:left;
+}	
+#menu ul li a{
+	padding:0 16px;
+	color:#ccc;
+	background:white;
+	display:block;
+}
+#photo_container{
+	height:275px;
+	width:954px;
+	padding:16px;
+}
+#body_container{
+	height:752px;
+	width:954px;
+}
+#sub{
+	height:76px;
+	width:954px;
+	padding:17px 415px;
+}
+#sub h2{
+	font-size:18px;
+	line-height:24px;
+	padding:10px;
+	color:gray;
+}
+#first_layer{
+	width:954px;
+	height:233px;
+}
+#first_layer a img{
+	width:188px;
+	height:167px;
+	padding:17px 60px;
+}	
+#mid{
+	width:954px;
+	height:79px;
+	padding:17px 415px;
+}
+#mid h2{
+	font-size:20px;
+	line-height:24px;
+	padding:10px;
+	color:gray;
+}	
+#second_layer{
+	width:954px;
+	height:231px;
+}	
+#second_layer a img{
+	width:188px;
+	height:166px;
+	padding:17px 60px;
+}
+#bottom a img{
+	width:93px;
+	height:54px;
+	float:left;
+	padding:17px 45px;
+}	
+#left{
+	width:200px;
+	height:258px;
+	padding:20px 50px;
+	float:left;
+}
+#middle{
+	width:218px;
+	height:225px;
+	float:left;
+	padding:20px 50px;
+}
+#right{
+	width:215px;
+	height:208px;
+	float:left;
+	padding:20px 60px;
+}
+#right h3{
+	font-weight:bold;
+	color:gray;
+	padding:15px 17px;
+}	
+#right ul{
+	padding:2px;
+	color:gray;
+	float:left;
+}	
+#right ul a{
+	float:right;
+	padding:0 4px;
+}	
+#left p{
+	padding:15px;
+	color:gray;
+}
+#left h3{
+	padding:15px 17px;
+	color:gray;
+	font-weight:bold;
+}
+#middle h3{
+	padding:15px 17px;
+	color:gray;
+	font-weight:bold;
+}	
+#middle h6{
+	padding:5px 5px;
+	color:gray;
+}
+#middle h4{
+	padding:5px 5px;
+	color:gray;
+}	
+#footer{
+	width:954px;
+	height:40px;
+	float:left;
+	background:#f8f8f8;
+	padding:50px;
+}	
+#footer h5{
+	color:gray;
+}	
